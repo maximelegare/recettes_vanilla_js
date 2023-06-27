@@ -1,4 +1,4 @@
-import {createExampleHtml} from "./vues_recettes.js"
+import {createExampleHtml} from "./vues_cocktail.js"
 
 const MODEL_EXAMPLE = () => {
     // do stuff

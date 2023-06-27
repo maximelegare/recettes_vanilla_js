@@ -1,6 +1,6 @@
-import {CTRL_RECETTES} from "./mvc/recettes/controler_recettes.js"
+import {CTRL_COCKTAILS} from "./mvc/cocktail/controler_cocktail.js"
 
-const loadContent = () => CTRL_RECETTES("example")
+const loadContent = () => CTRL_COCKTAILS("example")
 
 
 
